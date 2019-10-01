@@ -12,3 +12,12 @@ The **Software Carpentry** workshop was held at UQ on 30th of Sept. - 1st of Oct
 ## What I didn't like
 
 *Steph's huour
+
+### Challenge
+
+*Push data to GitHub
+
+
+## Demo
+
+Hi!
